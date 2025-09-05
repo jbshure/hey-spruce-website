@@ -1,0 +1,23 @@
+{
+  "name": "hey-spruce-website",
+  "version": "1.0.0",
+  "description": "Professional restaurant cleaning services website for Hey Spruce",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 3000",
+    "build": "echo 'Static site - no build needed'",
+    "start": "python -m http.server 8080"
+  },
+  "keywords": [
+    "restaurant-cleaning",
+    "commercial-cleaning",
+    "los-angeles",
+    "hey-spruce"
+  ],
+  "author": "Hey Spruce",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/hey-spruce-website.git"
+  }
+}

@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build outputs
+.vercel
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Scraped content
+heyspruce_rendered.html
+scrape_spruce.py
